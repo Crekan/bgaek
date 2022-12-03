@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1775470-2d24-4945-97db-b6f0d280f00c" name="Changes" comment="fix back file">
-      <change beforePath="$PROJECT_DIR$/.idea/back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/back.iml" afterDir="false" />
+    <list default="true" id="f1775470-2d24-4945-97db-b6f0d280f00c" name="Changes" comment="fix file readme for back">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,11 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="back" type="Python.DjangoServer" factoryName="Django server">
       <module name="back" />
@@ -73,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670055541187</updated>
-      <workItem from="1670055551601" duration="278000" />
+      <workItem from="1670055551601" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="fix back file">
       <created>1670055661910</created>
@@ -89,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670055667998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix file readme for back">
+      <created>1670055889479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670055889479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix file readme for back">
+      <created>1670055927299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670055927299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix back file" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix back file" />
+    <MESSAGE value="fix file readme for back" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix file readme for back" />
   </component>
 </project>
