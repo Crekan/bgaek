@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f863cff-1728-48fb-a758-0ca58a86ea7b" name="Changes" comment="" />
+    <list default="true" id="9f863cff-1728-48fb-a758-0ca58a86ea7b" name="Changes" comment="add file for all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670052289805</updated>
       <workItem from="1670052293098" duration="25000" />
-      <workItem from="1670052366720" duration="168000" />
+      <workItem from="1670052366720" duration="230000" />
     </task>
+    <task id="LOCAL-00001" summary="add file for all">
+      <created>1670052553358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670052553358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add file for all" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file for all" />
   </component>
 </project>
