@@ -1,4 +1,4 @@
-package com.example.bgaek_mobile;
+package com.example.android_app;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.bgaek_mobile", appContext.getPackageName());
+        assertEquals("com.example.android_app", appContext.getPackageName());
     }
 }

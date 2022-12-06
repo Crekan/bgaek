@@ -1,4 +1,4 @@
-package com.example.bgaek_mobile;
+package com.example.android_app;
 
 import org.junit.Test;
 
