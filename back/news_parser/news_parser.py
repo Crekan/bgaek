@@ -12,19 +12,6 @@ headers = {
     'Connection': 'keep-alive',
 }
 data = []
-the_last_page = []
-
-url_pagination = 'http://bgaek.by/'
-pagination_response = requests.get(url_pagination, headers=headers)
-pagination_soup = BeautifulSoup(pagination_response.text, 'lxml')
-
-pages = []
-pagination = pagination_soup.find('div', class_='nav-links').findAll('a', class_='page-numbers')
-
-for page in pagination:
-    pages.append(page.text)
-
-the_last_page = pages[-2]
 
 for page in range(0, 11):
     url = f'http://bgaek.by/page/{page}/'
